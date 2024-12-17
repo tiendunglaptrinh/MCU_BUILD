@@ -1,0 +1,30 @@
+!SESSION 2024-10-17 14:11:38.988 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=vi_VN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-10-17 14:12:08.667
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-10-17 14:12:08.668
+!MESSAGE Log4j2 initialized with config file C:\Users\tangu\OneDrive\Desktop\Forth year\Vixuly\Lab\Lab1\Lab1_2110965\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-10-17 14:12:12.832
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-10-17 14:14:41.814 -----------------------------------------------
+eclipse.buildId=Version 1.16.1
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=vi_VN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\tangu\OneDrive\Desktop\Forth year\Vixuly\Lab\Lab1\Lab1_2110965
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-10-17 14:14:46.582
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-10-17 14:14:46.582
+!MESSAGE Log4j2 initialized with config file C:\Users\tangu\OneDrive\Desktop\Forth year\Vixuly\Lab\Lab1\Lab1_2110965\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-10-17 14:14:50.111
+!MESSAGE Started RMI Server, listening on port 41337

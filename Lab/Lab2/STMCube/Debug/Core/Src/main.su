@@ -1,0 +1,12 @@
+../Core/Src/main.c:71:7:display7SEG	24	static
+../Core/Src/main.c:67:5:main	96	static
+../Core/Src/main.c:210:8:updateClockBuffer	16	static
+../Core/Src/main.c:228:8:exercise12	24	static
+../Core/Src/main.c:262:8:Blinky_DOT	16	static
+../Core/Src/main.c:265:8:HelpUpdateClockBuffer	16	static
+../Core/Src/main.c:271:8:exercise5	16	static
+../Core/Src/main.c:319:6:SystemClock_Config	72	static
+../Core/Src/main.c:356:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:401:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:450:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:462:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,6 @@
+../Core/Src/SCH_global.c:17:6:SCH_Init	16	static
+../Core/Src/SCH_global.c:31:6:SCH_Update	16	static
+../Core/Src/SCH_global.c:55:15:SCH_Add_Task	32	static
+../Core/Src/SCH_global.c:79:6:SCH_Dispatch_Tasks	16	static
+../Core/Src/SCH_global.c:101:15:SCH_Delete_Task	24	static
+../Core/Src/SCH_global.c:120:6:SCH_Go_To_Sleep	8	static

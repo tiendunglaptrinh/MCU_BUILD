@@ -1,0 +1,12 @@
+../Core/Src/main.c:71:7:display7SEG	11
+../Core/Src/main.c:67:5:main	4
+../Core/Src/main.c:210:8:updateClockBuffer	5
+../Core/Src/main.c:228:8:exercise12	5
+../Core/Src/main.c:262:8:Blinky_DOT	1
+../Core/Src/main.c:265:8:HelpUpdateClockBuffer	1
+../Core/Src/main.c:271:8:exercise5	4
+../Core/Src/main.c:319:6:SystemClock_Config	3
+../Core/Src/main.c:356:13:MX_TIM2_Init	4
+../Core/Src/main.c:401:13:MX_GPIO_Init	1
+../Core/Src/main.c:450:6:HAL_TIM_PeriodElapsedCallback	1
+../Core/Src/main.c:462:6:Error_Handler	1
